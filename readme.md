@@ -1,4 +1,4 @@
-Criado a pasta
+Criada a pasta
 
 Criado o html
 
@@ -8,7 +8,7 @@ Usado um comando no Docker para direcionar todas as requisições de uma porta e
 
 Para conferir se está ativo: `docker ps`
 
-Criada o arquivo "sobre.html" para referenciar a rota na url
+Criado o arquivo "sobre.html" para referenciar a rota na url
 
 Foi encerrado a aplicação por meio do comando `docker container rm /aula-apache`
 
